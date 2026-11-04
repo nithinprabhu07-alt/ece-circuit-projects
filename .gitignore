@@ -1,0 +1,8 @@
+.DS_Store
+*.raw
+*.log
+*.net
+*.op.raw
+*.asy.bak
+*.asc.bak
+*.bak
