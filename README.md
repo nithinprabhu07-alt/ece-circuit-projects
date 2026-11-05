@@ -6,8 +6,8 @@ checks needed to reproduce the work.
 
 | Project | Focus | Files |
 |---|---|---|
-| [Temperature and light indicators](project-1-sensor-indicators/) | Sensor voltage dividers, reference levels, and op-amp comparators | Original `Draft1.asc` and design notes |
-| [Two-way optical audio link](project-2-optical-audio-link/) | Audio conditioning, optical transmission, amplification, and level indicators | Original `Draft2.asc` and design notes |
+| [Temperature and light indicators](sensor-indicators/) | Sensor voltage dividers, reference levels, and op-amp comparators | Original `Draft1.asc` and design notes |
+| [Two-way optical audio link](optical-audio-link/) | Audio conditioning, optical transmission, amplification, and level indicators | Original `Draft2.asc` and design notes |
 
 ## Current status
 
